@@ -1,3 +1,10 @@
+# Digitevent's fork of https://github.com/pauldemarco/flutter_blue
+
+- Aligned with: v0.8.0
+- Includes:
+  - https://github.com/pauldemarco/flutter_blue/pull/599 (fix for https://github.com/pauldemarco/flutter_blue/issues/696 — _Plugin asks for bluetooth permission on app startup (iOS) #696_)
+
+
 [![pub package](https://img.shields.io/pub/v/flutter_blue.svg)](https://pub.dartlang.org/packages/flutter_blue)
 [![Chat](https://img.shields.io/discord/634853295160033301.svg?style=flat-square&colorB=758ED3)](https://discord.gg/Yk5Efra)
 
